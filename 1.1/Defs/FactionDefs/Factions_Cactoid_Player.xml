@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<FactionDef Abstract="True" Name="CactoidFactionBase">
+		<colorSpectrum>
+			<li>(0.4, 0.837, 0.247)</li>
+		</colorSpectrum>
+	</FactionDef>
+  
+	<FactionDef Parent="CactoidFactionBase">
+		<defName>CactoidPlayerTribe</defName>
+		<label>Cactoid Tribe</label>
+		<description>Your own community.</description>
+		<isPlayer>true</isPlayer>
+		<pawnSingular>tribesperson</pawnSingular>
+		<pawnsPlural>tribespeople</pawnsPlural>
+		<basicMemberKind>PlayerCactoid</basicMemberKind>
+		
+		<techLevel>Neolithic</techLevel>
+		<backstoryCategories>
+			<li>Tribal</li>
+		</backstoryCategories>
+		<factionIconPath>World/CactoidPlayerVillage</factionIconPath>
+		<settlementTexturePath>World/WorldObjects/TribalSettlement</settlementTexturePath>
+		<pawnNameMaker>NamerPersonTribal</pawnNameMaker>
+		
+		
+		<playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>		
+		<factionNameMaker>NamerFactionTribal</factionNameMaker>
+		<settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
+				
+		<geneticVariance>1</geneticVariance>
+		<forageabilityFactor>1.9</forageabilityFactor>
+		
+		<startingResearchTags>
+			<li>TribalStart</li>
+		</startingResearchTags>
+		
+		<hairTags>
+			<li>CactoidHair</li>
+		</hairTags>
+		
+		<apparelStuffFilter>
+			<thingDefs>
+				<li>Cloth</li>
+			</thingDefs>
+		</apparelStuffFilter>
+		
+		<recipePrerequisiteTags>
+			<li>Tribal</li>
+		</recipePrerequisiteTags>		
+		
+		<colorSpectrum>
+			<li>(0.4, 0.837, 0.247)</li>
+		</colorSpectrum>
+		
+  </FactionDef>
+  
+
+</Defs>
+
+
+
+
