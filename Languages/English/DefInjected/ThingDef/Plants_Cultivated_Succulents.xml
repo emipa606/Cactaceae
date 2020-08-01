@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantCactus.label>cactus</PlantCactus.label>
+  <PlantCactus.description>A decorative desert cactus with colorful flowers. It's not as pretty as other flowers, but lasts a long time.</PlantCactus.description>
+
+  <PlantGoldAgave.label>gold agave plant</PlantGoldAgave.label>
+  <PlantGoldAgave.description>Specialized agave developed over many generations by Cactoid farmers.  Survives well in cold conditions and yeilds great fruit even in poor soil.  Only the Cactoids know the methods of cultivation.</PlantGoldAgave.description>
+
+
+</LanguageData>

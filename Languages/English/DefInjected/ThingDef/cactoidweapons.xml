@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New Long Needle -->
+
+  <MeleeWeapon_LongNeedle.label>long needle</MeleeWeapon_LongNeedle.label>
+  <MeleeWeapon_LongNeedle.description>A long piercing weapon modeled after a cactus's spine.\n(Only craftable by Cactoids)</MeleeWeapon_LongNeedle.description>
+  <MeleeWeapon_LongNeedle.tools.0.label>shaft</MeleeWeapon_LongNeedle.tools.0.label>
+  <MeleeWeapon_LongNeedle.tools.1.label>point</MeleeWeapon_LongNeedle.tools.1.label>
+
+
+  <!-- Cactoid Blowgun -->
+
+  <CactusDart.label>dart</CactusDart.label>
+
+  <CactoidBlowgun.label>blowgun</CactoidBlowgun.label>
+  <CactoidBlowgun.description>A long hollow tube, artfully crafted by a Cactoid.\n(Only craftable by Cactoids)</CactoidBlowgun.description>
+  <CactoidBlowgun.tools.0.label>limb</CactoidBlowgun.tools.0.label>
+
+
+</LanguageData>

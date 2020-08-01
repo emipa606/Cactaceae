@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CactoidSeedlingStage.label>seedling</CactoidSeedlingStage.label>
+  <CactoidYoungStage.label>sprout</CactoidYoungStage.label>
+  <CactoidAdolescentStage.label>flowerling</CactoidAdolescentStage.label>
+  <CactoidAdultStage.label>adult</CactoidAdultStage.label>
+  <CactoidElderStage.label>elder</CactoidElderStage.label>
+  <CactoidAncientStage.label>ancient</CactoidAncientStage.label>
+
+
+</LanguageData>

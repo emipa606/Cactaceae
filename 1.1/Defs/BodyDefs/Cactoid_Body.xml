@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-
   <BodyDef>
     <defName>CactoidBody</defName>
     <label>Cactoid</label>
@@ -120,7 +118,7 @@
               <groups>
                 <li>UpperHead</li>
                 <li>FullHead</li>
-								<li>HeadAttackTool</li>
+                <li>HeadAttackTool</li>
               </groups>
               <parts>
                 <li>
@@ -574,5 +572,4 @@
       </parts>
     </corePart>
   </BodyDef>
-  
 </Defs>

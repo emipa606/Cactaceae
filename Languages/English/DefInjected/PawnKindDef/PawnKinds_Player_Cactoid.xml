@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlayerCactoid.label>member</PlayerCactoid.label>
+  <PlayerCactoid.labelPlural>members</PlayerCactoid.labelPlural>
+  <PlayerCactoid.labelMale>male member</PlayerCactoid.labelMale>
+  <PlayerCactoid.labelMalePlural>male members</PlayerCactoid.labelMalePlural>
+  <PlayerCactoid.labelFemale>female member</PlayerCactoid.labelFemale>
+  <PlayerCactoid.labelFemalePlural>female members</PlayerCactoid.labelFemalePlural>
+
+
+</LanguageData>

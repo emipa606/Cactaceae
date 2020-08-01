@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CactoidBody.label>Cactoid</CactoidBody.label>
+  <CactoidBody.corePart.parts.6.customLabel>left lung</CactoidBody.corePart.parts.6.customLabel>
+  <CactoidBody.corePart.parts.7.customLabel>right lung</CactoidBody.corePart.parts.7.customLabel>
+  <CactoidBody.corePart.parts.8.customLabel>left kidney</CactoidBody.corePart.parts.8.customLabel>
+  <CactoidBody.corePart.parts.9.customLabel>right kidney</CactoidBody.corePart.parts.9.customLabel>
+  <CactoidBody.corePart.parts.11.parts.0.parts.1.customLabel>left eye</CactoidBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <CactoidBody.corePart.parts.11.parts.0.parts.2.customLabel>right eye</CactoidBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <CactoidBody.corePart.parts.11.parts.0.parts.3.customLabel>left ear</CactoidBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <CactoidBody.corePart.parts.11.parts.0.parts.4.customLabel>right ear</CactoidBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <CactoidBody.corePart.parts.12.customLabel>left shoulder</CactoidBody.corePart.parts.12.customLabel>
+  <CactoidBody.corePart.parts.12.parts.0.customLabel>left clavicle</CactoidBody.corePart.parts.12.parts.0.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.customLabel>left arm</CactoidBody.corePart.parts.12.parts.1.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</CactoidBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.parts.1.customLabel>left radius</CactoidBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.parts.2.customLabel>left hand</CactoidBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</CactoidBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</CactoidBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</CactoidBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</CactoidBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <CactoidBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</CactoidBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <CactoidBody.corePart.parts.13.customLabel>right shoulder</CactoidBody.corePart.parts.13.customLabel>
+  <CactoidBody.corePart.parts.13.parts.0.customLabel>right clavicle</CactoidBody.corePart.parts.13.parts.0.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.customLabel>right arm</CactoidBody.corePart.parts.13.parts.1.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</CactoidBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.parts.1.customLabel>right radius</CactoidBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.parts.2.customLabel>right hand</CactoidBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</CactoidBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</CactoidBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</CactoidBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</CactoidBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <CactoidBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</CactoidBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <CactoidBody.corePart.parts.15.customLabel>left leg</CactoidBody.corePart.parts.15.customLabel>
+  <CactoidBody.corePart.parts.15.parts.0.customLabel>left femur</CactoidBody.corePart.parts.15.parts.0.customLabel>
+  <CactoidBody.corePart.parts.15.parts.1.customLabel>left tibia</CactoidBody.corePart.parts.15.parts.1.customLabel>
+  <CactoidBody.corePart.parts.15.parts.2.customLabel>left foot</CactoidBody.corePart.parts.15.parts.2.customLabel>
+  <CactoidBody.corePart.parts.15.parts.2.parts.0.customLabel>left little toe</CactoidBody.corePart.parts.15.parts.2.parts.0.customLabel>
+  <CactoidBody.corePart.parts.15.parts.2.parts.1.customLabel>left fourth toe</CactoidBody.corePart.parts.15.parts.2.parts.1.customLabel>
+  <CactoidBody.corePart.parts.15.parts.2.parts.2.customLabel>left middle toe</CactoidBody.corePart.parts.15.parts.2.parts.2.customLabel>
+  <CactoidBody.corePart.parts.15.parts.2.parts.3.customLabel>left second toe</CactoidBody.corePart.parts.15.parts.2.parts.3.customLabel>
+  <CactoidBody.corePart.parts.15.parts.2.parts.4.customLabel>left big toe</CactoidBody.corePart.parts.15.parts.2.parts.4.customLabel>
+  <CactoidBody.corePart.parts.16.customLabel>right leg</CactoidBody.corePart.parts.16.customLabel>
+  <CactoidBody.corePart.parts.16.parts.0.customLabel>right femur</CactoidBody.corePart.parts.16.parts.0.customLabel>
+  <CactoidBody.corePart.parts.16.parts.1.customLabel>right tibia</CactoidBody.corePart.parts.16.parts.1.customLabel>
+  <CactoidBody.corePart.parts.16.parts.2.customLabel>right foot</CactoidBody.corePart.parts.16.parts.2.customLabel>
+  <CactoidBody.corePart.parts.16.parts.2.parts.0.customLabel>right little toe</CactoidBody.corePart.parts.16.parts.2.parts.0.customLabel>
+  <CactoidBody.corePart.parts.16.parts.2.parts.1.customLabel>right fourth toe</CactoidBody.corePart.parts.16.parts.2.parts.1.customLabel>
+  <CactoidBody.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</CactoidBody.corePart.parts.16.parts.2.parts.2.customLabel>
+  <CactoidBody.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</CactoidBody.corePart.parts.16.parts.2.parts.3.customLabel>
+  <CactoidBody.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</CactoidBody.corePart.parts.16.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

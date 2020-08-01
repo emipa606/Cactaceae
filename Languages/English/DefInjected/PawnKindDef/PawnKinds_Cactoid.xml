@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CactoidMelee.label>fighter</CactoidMelee.label>
+  <CactoidMelee.labelPlural>fighters</CactoidMelee.labelPlural>
+  <CactoidMelee.labelMale>male fighter</CactoidMelee.labelMale>
+  <CactoidMelee.labelMalePlural>male fighters</CactoidMelee.labelMalePlural>
+  <CactoidMelee.labelFemale>female fighter</CactoidMelee.labelFemale>
+  <CactoidMelee.labelFemalePlural>female fighters</CactoidMelee.labelFemalePlural>
+
+  <CactoidTrader.label>keeper</CactoidTrader.label>
+  <CactoidTrader.labelPlural>keepers</CactoidTrader.labelPlural>
+  <CactoidTrader.labelMale>male keeper</CactoidTrader.labelMale>
+  <CactoidTrader.labelMalePlural>male keepers</CactoidTrader.labelMalePlural>
+  <CactoidTrader.labelFemale>female keeper</CactoidTrader.labelFemale>
+  <CactoidTrader.labelFemalePlural>female keepers</CactoidTrader.labelFemalePlural>
+
+  <CactoidRanged.label>needler</CactoidRanged.label>
+  <CactoidRanged.labelPlural>needlers</CactoidRanged.labelPlural>
+  <CactoidRanged.labelMale>male needler</CactoidRanged.labelMale>
+  <CactoidRanged.labelMalePlural>male needlers</CactoidRanged.labelMalePlural>
+  <CactoidRanged.labelFemale>female needler</CactoidRanged.labelFemale>
+  <CactoidRanged.labelFemalePlural>female needlers</CactoidRanged.labelFemalePlural>
+
+  <CactoidChief.label>primogenitor</CactoidChief.label>
+  <CactoidChief.labelPlural>primogenitors</CactoidChief.labelPlural>
+  <CactoidChief.labelMale>male primogenitor</CactoidChief.labelMale>
+  <CactoidChief.labelMalePlural>male primogenitors</CactoidChief.labelMalePlural>
+  <CactoidChief.labelFemale>female primogenitor</CactoidChief.labelFemale>
+  <CactoidChief.labelFemalePlural>female primogenitors</CactoidChief.labelFemalePlural>
+
+
+</LanguageData>

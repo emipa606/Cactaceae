@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Alien_Cactoid.label>cactoid</Alien_Cactoid.label>
+  <Alien_Cactoid.description>A hardy human-cactus hybrid species able to live in harse conditions.</Alien_Cactoid.description>
+  <Alien_Cactoid.alienRace.relationSettings.renamer.0.label>Progenitor</Alien_Cactoid.alienRace.relationSettings.renamer.0.label>
+  <Alien_Cactoid.alienRace.relationSettings.renamer.1.label>Child</Alien_Cactoid.alienRace.relationSettings.renamer.1.label>
+  <Alien_Cactoid.alienRace.relationSettings.renamer.2.label>Spouse</Alien_Cactoid.alienRace.relationSettings.renamer.2.label>
+  <Alien_Cactoid.alienRace.relationSettings.renamer.3.label>ExSpouse</Alien_Cactoid.alienRace.relationSettings.renamer.3.label>
+  <Alien_Cactoid.alienRace.relationSettings.renamer.4.label>Sibling</Alien_Cactoid.alienRace.relationSettings.renamer.4.label>
+  <Alien_Cactoid.alienRace.relationSettings.renamer.5.label>Betrothed</Alien_Cactoid.alienRace.relationSettings.renamer.5.label>
+  <Alien_Cactoid.tools.0.label>left fist</Alien_Cactoid.tools.0.label>
+  <Alien_Cactoid.tools.1.label>right fist</Alien_Cactoid.tools.1.label>
+  <Alien_Cactoid.tools.2.label>teeth</Alien_Cactoid.tools.2.label>
+  <Alien_Cactoid.tools.3.label>head</Alien_Cactoid.tools.3.label>
+
+
+</LanguageData>
