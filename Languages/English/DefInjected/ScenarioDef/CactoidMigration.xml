@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <CactoidMigration.label>Cactoid Migration</CactoidMigration.label>
   <CactoidMigration.description>Water, always rationed, always saved, simply ran out.  The tribe dwindled to but four survivors.  The land was no longer a home with so many gone.  The horizon leads to new beginnings and new hope.  </CactoidMigration.description>
   <CactoidMigration.scenario.name>Cactoid Migration</CactoidMigration.scenario.name>
   <CactoidMigration.scenario.summary>A group of hardy Cactoids has left their homeland after a prolonged drought.</CactoidMigration.scenario.summary>
   <CactoidMigration.scenario.description>Water, always rationed, always saved, simply ran out.  The tribe dwindled to but four survivors.  The land was no longer a home with so many gone.  The horizon leads to new beginnings and new hope.  </CactoidMigration.scenario.description>
   <CactoidMigration.scenario.parts.12.text>The tribe has walked for weeks seeking a place to settle. Then, a sign appears from the heavens; a bright ball of flame and crashing thunder fills the dawn.\n\nThe sojourn is complete. Here a new home will be built for these hardy four survivors.  Lead these hardy people to a prosperous future.</CactoidMigration.scenario.parts.12.text>
-
-
 </LanguageData>

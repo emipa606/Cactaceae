@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <CactoidFaction.label>Cactoid Tribe</CactoidFaction.label>
   <CactoidFaction.description>A tribe of xenophobic Cactoids, very distrustful of outsiders.  They are a hardy group able to survive harsh conditions. They are likely to leave others alone, so long as they are left alone.  Occasional groups travel the land in search of goods. Though rarely war-like, they are skilled at defending themselves, at least compared to other stone age tribes.</CactoidFaction.description>
   <CactoidFaction.pawnsPlural>cactoids</CactoidFaction.pawnsPlural>
   <CactoidFaction.leaderTitle>ancient</CactoidFaction.leaderTitle>
-
-
 </LanguageData>

@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <CactoidBody.label>Cactoid</CactoidBody.label>
   <CactoidBody.corePart.parts.6.customLabel>left lung</CactoidBody.corePart.parts.6.customLabel>
   <CactoidBody.corePart.parts.7.customLabel>right lung</CactoidBody.corePart.parts.7.customLabel>
@@ -50,6 +49,4 @@
   <CactoidBody.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</CactoidBody.corePart.parts.16.parts.2.parts.2.customLabel>
   <CactoidBody.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</CactoidBody.corePart.parts.16.parts.2.parts.3.customLabel>
   <CactoidBody.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</CactoidBody.corePart.parts.16.parts.2.parts.4.customLabel>
-
-
 </LanguageData>

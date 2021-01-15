@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <CactoidFlower1.label>CactoidFlower1</CactoidFlower1.label>
   <CactoidShadedFlower.label>CactoidShadedFlower</CactoidShadedFlower.label>
   <CactoidBald.label>CactoidBald</CactoidBald.label>
@@ -9,6 +8,4 @@
   <CactoidSpinesManyDarker.label>CactoidSpinesManyDarker</CactoidSpinesManyDarker.label>
   <CactoidFlower2.label>CactoidFlower2</CactoidFlower2.label>
   <CactoidCactusFruit4.label>CactoidCactusFruit4</CactoidCactusFruit4.label>
-
-
 </LanguageData>
