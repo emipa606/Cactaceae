@@ -113,6 +113,7 @@
               <defName>Cactoid_ACactoidJoinsTheColony</defName>
               <label>A Cactoid Joins</label>
               <cost>150</cost>
+              <tab>Mlie_Continued</tab>
               <incident>Cactoid_CactoidJoinsTheColony</incident>
             </AchievementsExpanded.Reward_MapIncident>
           </value>
