@@ -19,10 +19,14 @@
   </modDependencies>
   <loadAfter>
     <li>erdelf.HumanoidAlienRaces</li>
+    <li>syrchalis.traitvalue</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of Harry_Robinsons mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1762523069
+
+- Should not spawn as permanent enemy towards Empire
+- Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url]
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
