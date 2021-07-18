@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef Abstract="True" Name="CactoidFactionBase" ParentName="FactionBase">
+    <colorSpectrum>
+      <li>(0.4, 0.837, 0.247)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <FactionDef Parent="CactoidFactionBase">
+    <defName>CactoidPlayerTribe</defName>
+    <label>Cactoid Tribe</label>
+    <description>Your own community.</description>
+    <isPlayer>true</isPlayer>
+    <pawnSingular>tribesperson</pawnSingular>
+    <pawnsPlural>tribespeople</pawnsPlural>
+    <basicMemberKind>PlayerCactoid</basicMemberKind>
+    <techLevel>Neolithic</techLevel>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <factionIconPath>World/CactoidPlayerVillage</factionIconPath>
+    <settlementTexturePath>World/WorldObjects/TribalSettlement</settlementTexturePath>
+    <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
+    <factionNameMaker>NamerFactionTribal</factionNameMaker>
+    <settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
+    <geneticVariance>1</geneticVariance>
+    <forageabilityFactor>1.9</forageabilityFactor>
+    <startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <allowedCultures>
+      <li>Corunan</li>
+    </allowedCultures>
+    <apparelStuffFilter>
+      <thingDefs>
+        <li>Cloth</li>
+      </thingDefs>
+    </apparelStuffFilter>
+    <recipePrerequisiteTags>
+      <li>Tribal</li>
+    </recipePrerequisiteTags>
+    <colorSpectrum>
+      <li>(0.4, 0.837, 0.247)</li>
+    </colorSpectrum>
+    <raidLootValueFromPointsCurve>
+      <points>
+        <li>(35,     15)</li>
+        <li>(100,   120)</li>
+        <li>(1000,  500)</li>
+        <li>(2000,  800)</li>
+        <li>(4000, 1000)</li>
+      </points>
+    </raidLootValueFromPointsCurve>
+  </FactionDef>
+</Defs>

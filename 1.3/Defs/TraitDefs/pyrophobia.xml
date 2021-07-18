@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>CactoidPyrophobia</defName>
+    <commonality>0.001</commonality>
+    <disabledWorkTags>Firefighting</disabledWorkTags>
+    <degreeDatas>
+      <li>
+        <label>pyrophobia</label>
+        <description>[PAWN_nameDef] hates fire. [PAWN_pronoun] will refuse to get close to fire to put it out.</description>
+      </li>
+    </degreeDatas>
+    <conflictingTraits>
+      <li>Pyromaniac</li>
+    </conflictingTraits>
+  </TraitDef>
+</Defs>
