@@ -138,13 +138,22 @@
           <head>Things/Pawn/Humanlike/Cactoid/Head/</head>
         </li>
       </graphicPaths>
-      <hairSettings>
-        <hasHair>true</hasHair>
-        <getsGreyAt>125</getsGreyAt>
-        <hairTags>
-          <li>CactoidHair</li>
-        </hairTags>
-      </hairSettings>
+      <styleSettings>
+        <li>
+          <key>HairDef</key>
+          <value>
+            <styleTags>
+              <li>CactoidHair</li>
+            </styleTags>
+          </value>
+        </li>
+        <li>
+          <key>BeardDef</key>
+          <value>
+            <hasStyle>false</hasStyle>
+          </value>
+        </li>
+      </styleSettings>
       <relationSettings>
         <relationChanceModifierSibling>3</relationChanceModifierSibling>
         <renamer>
