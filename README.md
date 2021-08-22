@@ -57,9 +57,9 @@ Disadvantages:
    More flammable than humans 
    Often afraid to fight fire
 
-Note: As Hivemind hasn&apos;t updated the mod since Beta 19, and hasn&apos;t been online for nearly a year, I&apos;ve taken it up to try and update it. I&apos;ll just be trying to keep it working with modern versions though, if anyone wants to add features feel free to make your own version.
+Note: As Hivemind hasn't updated the mod since Beta 19, and hasn't been online for nearly a year, I've taken it up to try and update it. I'll just be trying to keep it working with modern versions though, if anyone wants to add features feel free to make your own version.
 
-Hivemind&apos;s original mod: https://steamcommunity.com/workshop/filedetails/?id=1762523069
+Hivemind's original mod: https://steamcommunity.com/workshop/filedetails/?id=1762523069
 
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
@@ -72,6 +72,7 @@ Hivemind&apos;s original mod: https://steamcommunity.com/workshop/filedetails/?i
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
