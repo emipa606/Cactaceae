@@ -5,71 +5,71 @@
     <label>CactoidFlower1</label>
     <hairGender>Any</hairGender>
     <texPath>Things/Pawn/Humanlike/Hairs/Flower1</texPath>
-    <hairTags>
+    <styleTags>
       <li>CactoidHair</li>
-    </hairTags>
+    </styleTags>
   </HairDef>
   <HairDef>
     <defName>CactoidShadedFlower</defName>
     <label>CactoidShadedFlower</label>
     <hairGender>Any</hairGender>
     <texPath>Things/Pawn/Humanlike/Hairs/ShadedFlower</texPath>
-    <hairTags>
+    <styleTags>
       <li>CactoidHair</li>
-    </hairTags>
+    </styleTags>
   </HairDef>
   <HairDef>
     <defName>CactoidBald</defName>
     <label>CactoidBald</label>
     <hairGender>Any</hairGender>
     <texPath>Things/Pawn/Humanlike/Hairs/CactusBald</texPath>
-    <hairTags>
+    <styleTags>
       <li>CactoidHair</li>
-    </hairTags>
+    </styleTags>
   </HairDef>
   <HairDef>
     <defName>CactoidFlowerTuft</defName>
     <label>CactoidFlowerTuft</label>
     <hairGender>Any</hairGender>
     <texPath>Things/Pawn/Humanlike/Hairs/FlowerTuft</texPath>
-    <hairTags>
+    <styleTags>
       <li>CactoidHair</li>
-    </hairTags>
+    </styleTags>
   </HairDef>
   <HairDef>
     <defName>CactoidSpines4Darker</defName>
     <label>CactoidSpines4Darker</label>
     <hairGender>Any</hairGender>
     <texPath>Things/Pawn/Humanlike/Hairs/Spines4Darker</texPath>
-    <hairTags>
+    <styleTags>
       <li>CactoidHair</li>
-    </hairTags>
+    </styleTags>
   </HairDef>
   <HairDef>
     <defName>CactoidSpinesManyDarker</defName>
     <label>CactoidSpinesManyDarker</label>
     <hairGender>Any</hairGender>
     <texPath>Things/Pawn/Humanlike/Hairs/SpinesManyDarker</texPath>
-    <hairTags>
+    <styleTags>
       <li>CactoidHair</li>
-    </hairTags>
+    </styleTags>
   </HairDef>
   <HairDef>
     <defName>CactoidFlower2</defName>
     <label>CactoidFlower2</label>
     <hairGender>Any</hairGender>
     <texPath>Things/Pawn/Humanlike/Hairs/Flower2</texPath>
-    <hairTags>
+    <styleTags>
       <li>CactoidHair</li>
-    </hairTags>
+    </styleTags>
   </HairDef>
   <HairDef>
     <defName>CactoidCactusFruit4</defName>
     <label>CactoidCactusFruit4</label>
     <hairGender>Any</hairGender>
     <texPath>Things/Pawn/Humanlike/Hairs/CactusFruit4</texPath>
-    <hairTags>
+    <styleTags>
       <li>CactoidHair</li>
-    </hairTags>
+    </styleTags>
   </HairDef>
 </Defs>

@@ -142,9 +142,9 @@
         <li>
           <key>HairDef</key>
           <value>
-            <styleTags>
+            <styleTagsOverride>
               <li>CactoidHair</li>
-            </styleTags>
+            </styleTagsOverride>
           </value>
         </li>
         <li>

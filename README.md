@@ -1,29 +1,21 @@
 # Cactaceae
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Harry_Robinsons mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1762523069
 
 - Should not spawn as permanent enemy towards Empire
 - Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value
+- Patch by ⎛⎝RubbelDieKatz⎠⎞ for allowing any hair, beard, tatoo in Ideology: https://steamcommunity.com/sharedfiles/filedetails/?id=2610093217]Any hair, beard and tattoo for Cactaceae
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/Cactaceae]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
 https://steamcommunity.com/sharedfiles/filedetails/?id=2288125657]![Image](https://i.imgur.com/kNldlMg.png)
 
 
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Overview:
@@ -62,7 +54,7 @@ Note: As Hivemind hasn't updated the mod since Beta 19, and hasn't been online f
 Hivemind's original mod: https://steamcommunity.com/workshop/filedetails/?id=1762523069
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -72,8 +64,6 @@ Hivemind's original mod: https://steamcommunity.com/workshop/filedetails/?id=176
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
-
-
 
 
 
