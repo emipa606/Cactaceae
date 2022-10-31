@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>CactoidFaction</defName>
+    <label>Cactoid Tribe</label>
+    <description>A tribe of xenophobic Cactoids, very distrustful of outsiders.  They are a hardy group able to survive harsh conditions. They are likely to leave others alone, so long as they are left alone.  Occasional groups travel the land in search of goods. Though rarely war-like, they are skilled at defending themselves, at least compared to other stone age tribes.</description>
+    <pawnSingular>cactoid</pawnSingular>
+    <pawnsPlural>cactoids</pawnsPlural>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
+    <canMakeRandomly>true</canMakeRandomly>
+    <canSiege>false</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <factionIconPath>World/CactoidVillage</factionIconPath>
+    <settlementTexturePath>World/WorldObjects/TribalSettlement</settlementTexturePath>
+    <melaninRange>0.0~0.3</melaninRange>
+    <colorSpectrum>
+      <li>(0.35,0.8,0.25)</li>
+      <li>(0.33,0.76,0.19)</li>
+      <li>(0.2,0.9,0.1)</li>
+    </colorSpectrum>
+    <factionNameMaker>NamerFactionTribal</factionNameMaker>
+    <settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
+    <techLevel>Neolithic</techLevel>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <leaderTitle>ancient</leaderTitle>
+    <allowedCultures>
+      <li>Corunan</li>
+    </allowedCultures>
+    <caravanTraderKinds>
+      <li>Caravan_Neolithic_BulkGoods</li>
+      <li>Caravan_Neolithic_WarMerchant</li>
+      <li>Caravan_Neolithic_Slaver</li>
+      <li>Caravan_Neolithic_ShamanMerchant</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>Visitor_Cactoid_Standard</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>Base_Neolithic_Standard</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>
+      <min>-40</min>
+      <max>50</max>
+    </allowedArrivalTemperatureRange>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70, 50)</li>
+        <li>(800, 100)</li>
+        <li>(1300, 150)</li>
+        <li>(100000, 10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <!-- Normal fights, ranged with melee mix-ins -->
+        <kindDef>Combat</kindDef>
+        <commonality>100</commonality>
+        <options>
+          <CactoidMelee>25</CactoidMelee>
+          <CactoidRanged>15</CactoidRanged>
+          <CactoidChief>5</CactoidChief>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <CactoidMelee>15</CactoidMelee>
+          <CactoidRanged>10</CactoidRanged>
+          <CactoidChief>3</CactoidChief>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <CactoidTrader>1</CactoidTrader>
+        </traders>
+        <carriers>
+          <Muffalo>1</Muffalo>
+          <Dromedary>15</Dromedary>
+          <Alpaca>1</Alpaca>
+        </carriers>
+        <guards>
+          <CactoidMelee>12</CactoidMelee>
+          <CactoidRanged>7</CactoidRanged>
+          <Mercenary_Slasher>3</Mercenary_Slasher>
+          <Mercenary_Gunner>1</Mercenary_Gunner>
+          <Mercenary_Elite>1</Mercenary_Elite>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <CactoidMelee>25</CactoidMelee>
+          <CactoidRanged>20</CactoidRanged>
+          <CactoidChief>12</CactoidChief>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+</Defs>
