@@ -12,7 +12,7 @@
     <invNutrition>2.3</invNutrition>
     <invFoodDef>RawAgave</invFoodDef>
     <apparelTags>
-      <li>Tribal</li>
+      <li>Neolithic</li>
     </apparelTags>
   </PawnKindDef>
   <PawnKindDef Name="CactoidMelee" Parentname="CactoidBase">

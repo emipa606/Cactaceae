@@ -1,5 +1,8 @@
 # Changelog for Cactaceae
 
+1.4.4 - Fixed the apparel tag, thanks FL0RENT_
+
+
 1.4.3 - Fixed black lines on the spiky hair-texture
 
 
